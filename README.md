@@ -9,7 +9,7 @@
 
 A modern, responsive chat application built with Vue.js frontend and FastAPI backend, integrated with Groq LLM for intelligent conversations.
 
-![Chat Application Screenshot](https://via.placeholder.com/800x400/3B82F6/FFFFFF?text=Chat+Application+Screenshot)
+![Chat Application Screenshot](<img width="922" height="580" alt="image" src="https://github.com/user-attachments/assets/0c2225b0-b3af-42af-8299-4898950022eb" />)
 
 > **Note**: Replace the placeholder image above with an actual screenshot of your application.
 
